@@ -6,8 +6,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-db/
-keys/
+*.db
+*.pem
 # C extensions
 *.so
 
